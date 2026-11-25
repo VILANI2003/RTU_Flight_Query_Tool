@@ -8,27 +8,28 @@ No AI tools were used.
 
 ## Tools used
 
-- Tool and version (e.g. ChatGPT GPT-5, Claude, GitHub Copilot):
+ChatGPT 
 
 ## Conversation links
 
-- Link 1:
+- Link 1: https://chatgpt.com/share/6b062c17-ea40-83ed-92c5-00f993541c0d
 - Link 2:
 
 ## What I used them for
 
-- e.g. explaining argparse, debugging the date validation, generating test data
+explaining argparse 
+debugging and correcting errors
+testing the program
+
 
 ## Which parts of the code were AI-generated or substantially AI-assisted
 
-| File | Function or part | How (generated / modified / explained) |
-| --- | --- | --- |
-|  |  |  |
+I got suggessions and example codes from GPT and asked the errors of my own codes and corrected it
 
 ## Key prompts
 
-1.
-2.
+1.I have a python assignment to do but first i want to know about argparse can you please explain it to me?
+2. The functions i sould use for next parts
 
 ## What I changed or verified myself
 
